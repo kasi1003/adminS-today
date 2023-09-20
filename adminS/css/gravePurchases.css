@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+}
+.custom-card {
+    min-height: 6em;
+    transition: transform 0.2s;
+    
+}
+
+.custom-card:hover {
+    transform: scale(1.02);
+}
+.custom-card-main{
+    display: flex; justify-content: center; width: 80%;
+}

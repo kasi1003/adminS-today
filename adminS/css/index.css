@@ -1,0 +1,12 @@
+*{
+    text-decoration: none;
+}
+.custom-card {
+    min-height: 12em;
+    transition: transform 0.2s;
+    
+}
+
+.custom-card:hover {
+    transform: scale(1.02);
+}
